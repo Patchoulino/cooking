@@ -45,17 +45,20 @@ https://www.youtube.com/watch?v=j5MmB35tEog
 - Hechar salsa de tomate con oregano y un poco de sal
 - Hornear a temperatura máxima por 3-5 min en horno de gas
 ```shell
-- (Con horno electrico:)
-- Hornear por 3 minutos
-- Hechar salsa de tomate con oregano y un poco de sal y volver a hornear por 3 minutos, girar la pizza
-- Girar la pizza despues de 3 minutos
+- Con horno electrico
+Hornear por 3 minutos
+Hechar salsa de tomate con oregano y un poco de sal
+Girar la pizza
+Hornear por 3 minutos
+Girar la pizza
+Hornear por 3 minutos
 ```
 
 - Agregar queso y toppings
 - Hornear de nuevo a temp maxima por 3-5 min en horno de gas
 ```shell
-- (Con horno electrico:)
-- Hornear por 15 minutos
+- Con horno electrico
+Hornear por 15 minutos
 ```
 
 ![](IMG_20210427_155347580_HDR.jpg)
