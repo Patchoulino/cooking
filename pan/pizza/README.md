@@ -53,7 +53,6 @@ Hornear por 3 minutos
 Girar la pizza
 Hornear por 3 minutos
 ```
-***
 - Agregar queso y toppings
 - Hornear de nuevo a temp maxima por 3-5 min en horno de gas
 ```shell
