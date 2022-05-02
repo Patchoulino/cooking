@@ -14,15 +14,15 @@ https://www.youtube.com/watch?v=va_mgjOWW9k
 
 # Receta:
 
-mezclar mantequilla, azucar blanca y morena
-batir hasta cremosa
-agregar un huevo a la vez
-agregar vainilla
-en otro recipiente mezclar la harina, sal, bicarbonato de sodio
-mezclar todo en 3 partes
-hechar chispas de chocolate
-envolver en plastico y hechar al conguelador por 2-3 horas
-10-12min en el horno a 350°F / 176.666°C
+- Mezclar mantequilla, azucar blanca y morena
+- Batir hasta cremosa
+- Agregar un huevo a la vez
+- Agregar vainilla
+- En otro recipiente mezclar la harina, sal, bicarbonato de sodio
+- Mezclar todo en 3 partes
+- Hechar chispas de chocolate
+- Envolver en plastico y hechar al conguelador por 2-3 horas
+- 10-12min en el horno a 350°F / 176.666°C
 
 ![](IMG_20210516_140355319.jpg)
 ![](IMG_20210516_144043413.jpg)
