@@ -37,23 +37,27 @@ https://www.youtube.com/watch?v=j5MmB35tEog
 - Amazar en un trozo de madera
 - Si se pega mucho usar un poco más de harina en las manos
 - Dejar reposar 2 horas debajo de un trapo humedo o plastico
-*
+
 - En una charola hechar aceite de oliva
 - Expandir la masa en la charola
 - Dejar reposar 1 hora mas
-*
+
 - Hechar salsa de tomate con oregano y un poco de sal
 - Hornear a temperatura máxima por 3-5 min en horno de gas
+```shell
 - (Con horno electrico:)
 - Hornear por 3 minutos
 - Hechar salsa de tomate con oregano y un poco de sal y volver a hornear por 3 minutos, girar la pizza
 - Girar la pizza despues de 3 minutos
-*
+```
+
 - Agregar queso y toppings
 - Hornear de nuevo a temp maxima por 3-5 min en horno de gas
+```shell
 - (Con horno electrico:)
 - Hornear por 15 minutos
-*
+```
+
 ![](IMG_20210427_155347580_HDR.jpg)
 ![](IMG_20210507_162541497.jpg)
 ![](IMG_20210507_165545764.jpg)
