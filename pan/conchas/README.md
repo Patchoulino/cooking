@@ -1,60 +1,44 @@
-https://www.youtube.com/watch?v=7uyhAC6iH5E&
+https://www.youtube.com/watch?v=1vJH_2hUIHo
 
-# Cantidades [Original] (11-12 piezas):
-For the dough 
-- 448g + 32g of all purpose flour 
-- 7 grams (one packet) active dry yeast
-- 64g + a pinch of sugar 
-- 4.8g salt 
-- 3 large room temperature eggs 
-- 64g cup softened unsalted butter 
-- 64ml cup whole milk(105F-110F degrees) 43C
-Topping 
-- 64g cup vegetable shortening 
-- 64g cup sugar 
-- 128g cup all purpose flour 
-- 14.3g cocoa powder 
-- 7.15g vanilla paste or extract 
-- Vanilla paste 
-- Vanilla extract
-
-# Cantidades (4 piezas):
-For the dough
-- 150g + 10g of all purpose flour
-- 2.3 grams (one packet) active dry yeast
-- 21.3g + a pinch of sugar
-- 1.6g salt
-- 1 large room temperature eggs
-- 21.3g cup softened unsalted butter
-- 21.3ml cup whole milk(105F-110F degrees) 43C
+# Cantidades [Original] ():
+Masa
+- 500g harina
+- 120g Mantequilla sin sal
+- 3 huevos
+- 130ml Leche evaporada o leche entera - cucharada
+- 140g Azucar
+- 3g Sal
+- 11g Levadura
+- cucharada de esencia de vainilla
+- Manteca
 Topping
-- 21.3g cup vegetable shortening
-- 21.3g cup sugar
-- 42.6g cup all purpose flour
-- 4.7g cocoa powder
-- 2.38g vanilla paste or extract
+- 175g Azucar glass
+- 175g Harina
+- 175g Manteca
+- Cocoa al gusto
+
+# Cantidades ():
+
 
 # Receta:
-- Incorporar la lecha a 43C con la levadura y una pizca de azucar, dejar reposar 5min
-- Incorporar en la batidora los huevos con la levadura usando el paddle attachment a velocidad media-baja
-- Se agrega el azucar y la sal
-- Agregar la harina en partes
-- Cambiar al hook attachment
-- Cuando la masa ya este pegada al hook incorporar la mantequilla en cubos, esto va a hacer que la masa se ablande y se empiece a despegar, se debe seguir amasando por unos 5 min, despues se seguira a mano aunque aun este pegajosa, aun ocupa mas harina
-- Mantequillar un bowl
-- Dejar reposar la masa en el bowl, la masa debe llenarse de mantequilla en el exterior, tapar con una toalla, 2 horas en el horno para tener un ambiente calido
+- Tibiar la leche 25sec en el horno de microondas
+- Incorporar la levadura y una cucharada de harina y otra de azucar
+- Dejar reposar hasta que duplique en tama;o 10~ min
 ***
-- Batir con el paddle, la manteca con el azucar por 5 minutos medium-high speed
-- Incorporar el extracto de vainilla y harina, velocidad baja-media
-- Se divide en 2 si se desea usar la cocoa, cada una deberia dividirse en 6 con las cantidades originales, hacer bolitas y guardar para mas tarde
+- Formar un volcan con la harina
+- Se colo can en el centro la levadura, los huevos, el azucar, la cucharada de vainilla, y en la orilla por fuera la sal
+- Se mezcla primero todo lo del centro y se va incorporando lentamente la harina
+- Ya que esta unida toda se incorpora la mantequilla a temperatura ambiente
+- Amasar por 20-30min, agregar un poco de harina a la superficie
+- Llenar la masa y el recipiente de mantequilla, se cubre con plastico
+- Dejar reposar de 90 a 120 min
 ***
-- En una superficie con un poco de harina
-- Dividir la masa en partes de 85g, hacer bolitas
-- Mantequillar las conchitas
-- Colocar la manteca sobre las conchas y presionar ligeramente, usar un poco de harina si se pegan en la superficie
-- Decorar y colocar en la charola con baking paper
-- Dejar reposar 1 hora 45 min en el horno para tener un ambiente calido
+- Para el topping, incorporar la manteca, azucar glass y harina
+- Se tapan y guardan en lo que se trabaja con la masa
 ***
-- Sacar y precalentar el horno a 177C
-- Hornear de 15 a 20 min, y girar las charolas, se deben ver 
+- En la charola, se puede usar papel encerado, manteca, mantequilla o pura harina
+- Se pone harina en la mesa y manos antes de sacar la masa, y se poncha
+- Estirar y cortar en partes iguales, hacer bolitas
+- Bolear con manteca y aplanar un poco en la charola
+- Dividir el topping en partes iguales y hacer bolitas, aplanar con una maquina para hacer tortillas o rodillo para colocarla en las conchas
 
