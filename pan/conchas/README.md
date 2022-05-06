@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=1vJH_2hUIHo
 
-# Cantidades [Original] ():
+# Cantidades [Original] (12 piezas):
 Masa
 - 500g harina
 - 120g Mantequilla sin sal
@@ -17,8 +17,22 @@ Topping
 - 175g Manteca
 - Cocoa al gusto
 
-# Cantidades ():
-
+# Cantidades (4 piezas):
+Masa
+- 167.67g harina
+- 40g Mantequilla sin sal
+- 1 huevo
+- 43.3ml Leche evaporada o leche entera - cucharada
+- 46.67g Azucar
+- 1g Sal
+- 3.67g Levadura
+- cucharada de esencia de vainilla
+- Manteca
+Topping
+- 58.3g Azucar glass
+- 58.3g Harina
+- 58.3g Manteca
+- Cocoa al gusto
 
 # Receta:
 - Tibiar la leche 25sec en el horno de microondas
