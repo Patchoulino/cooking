@@ -14,7 +14,7 @@ Masa
 Topping
 - 175 g Azucar glass
 - 175 g Harina
-- 175 g Manteca
+- 175 g Manteca (intentar con la mitad la sig)
 - Cocoa al gusto
 
 # Cantidades (4 piezas):
@@ -31,7 +31,7 @@ Masa
 Topping
 - 58.3 g Azucar glass
 - 58.3 g Harina
-- 58.3 g Manteca
+- 58.3 g Manteca (intentar con la mitad la sig)
 - Cocoa al gusto
 
 # Receta:
@@ -59,3 +59,7 @@ Topping
 ***
 - Precalentar el horno a 200 C
 - Se hornear las conchas por 15 min a 180 C
+```shell
+- Con horno electrico
+Hornear por 30min
+```
