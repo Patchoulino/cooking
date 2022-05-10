@@ -1,7 +1,7 @@
 # cooking
 Recetas doña Pulga
 
-# Conversion de unidades inteligentes
+# Conversion de unidades
 Cups	Grams	Ounces
 - 1/2 cup	64 g	2.25 oz
 - 2/3 cup	85 g	3 oz
