@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=va_mgjOWW9k
 - Mezclar todo en 3 partes
 - Hechar chispas de chocolate
 - Envolver en plastico y hechar al conguelador por 2-3 horas
-- 10-12min en el horno a 350°F / 176.666°C
+- 10-12min en el horno a 350°F / 176.666°C, o sacar antes una vez que las orillas esten doradas
 
 ![](IMG_20210516_140355319.jpg)
 ![](IMG_20210516_144043413.jpg)
