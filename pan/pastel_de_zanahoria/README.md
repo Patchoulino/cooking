@@ -1,41 +1,31 @@
-https://www.youtube.com/watch?v=va_mgjOWW9k
-https://www.youtube.com/watch?v=i-4v5_UvmsE
+https://www.youtube.com/watch?v=KrVRQeS_Y00
 
 # Cantidades:
 
-- 2 1/2 tazas (350g) Harina de Trigo [360g]
-- 1 taza (225g) Mantequilla sin Sal
-- 1 taza (210g) Azúcar morena compactada [150g]
-- 1/2 taza (100g) Azúcar blanca [150g]
-- 2 Huevos
-- 2 cdas Vainilla [1]
-- 1/2 cdta Sal
-- 1 cdta Bicarbonato de Sodio [1/2]
-- 2 tazas (350g) Chocolate Chips (chispas) [340g] (son muchas, usar la mitad)
-
-# Cantidades (1 barra de mantequilla):
-
-- 140g Harina de Trigo [144g]
-- 90g Mantequilla sin Sal 
-- 84g Azúcar morena compactada [60g]
-- 40 Azúcar blanca [60g]
-- 1 Huevos
-- 1 cdas Vainilla [1/2]
-- 1/4 cdta Sal
-- 1/2 cdta Bicarbonato de Sodio [1/4]
-- 140g Chocolate Chips (chispas) [136g]
+- 3 tazas de zanahoria rayada
+- 4 huevos
+- 1/2 taza de azúcar mascabada
+- 3/4 de taza de azúcar normal
+- nuez picada. Pasitas
+- 1 taza de aceite
+- 2 cucharaditas de vainilla
+- 1 cucharadita de canela molida
+- 1 cucharadita de bicarbonato
+- 1 y 1/2 de polvos para hornear
+- 1/2 cucharadita de sal molida
+- 2 tazas de harina de trigo
 
 # Receta:
 
-- Mezclar mantequilla, azucar blanca y morena
-- Batir hasta cremosa
-- Agregar un huevo a la vez
-- Agregar vainilla
-- En otro recipiente mezclar la harina, sal, bicarbonato de sodio
-- Mezclar todo en 3 partes
-- Hechar chispas de chocolate
-- Envolver en plastico y hechar al conguelador por 2-3 horas
-- 10-12min en el horno a 350°F / 176.666°C, o sacar antes una vez que las orillas esten doradas
+- Sernir la harina, bicarbonato de sodio, polvo para hornear, sal molida, canela.
+- Batir los huevos por 1 min, y despues agregar la taza de aceite y batir por 90 sec y despues se agregar los 2 azucares y se sigue batiendo otro min.
+- Se agrega tambien las 2 cucharaditas de vainilla y poco a poco se agrega la mezcla de harina.
+- Se mezcla con una palita y se agrega la zanahoria, nueces y pasas.
+- Se hornea a 180°C por 60min.
+- Con un palillo revisar el pastel si sale seco ya esta listo.
 
-![](IMG_20210516_140355319.jpg)
-![](IMG_20210516_144043413.jpg)
+# Betun:
+- Se bate la mantequilla y el queso crema por 30~ sec.
+- Sernir el azicar glass y se sigue batiendo.
+- con una palita bajar lo de las orillas para seguir batiendo y se hechan las 2 cucharaditas de vainilla.
+- Guardar en el refrigerador en lo que se enfria el pastel.
