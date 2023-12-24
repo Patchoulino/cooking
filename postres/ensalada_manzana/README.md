@@ -5,7 +5,7 @@
 - 2 Latas de durazno en almibar
 - 1 Lata de piña en almibar
 - 2 Latas de leche condensada
-- 200 Gramos de nuez
+- 400g de nuez, (200g para los pobres)
 
 # Receta:
 
